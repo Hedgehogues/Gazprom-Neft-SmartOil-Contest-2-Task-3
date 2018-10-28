@@ -1,5 +1,7 @@
 # Gazprom-Neft-SmartOil-Contest-2-Task-3
  Baseline for MAE = 137.2310
+ 
+ ![Соревнование](https://boosters.pro/gazprom_smartoil_contest2)
 
 # Gazprom Neft SmartOil Contest-2 (score -- 137.7980)
 
